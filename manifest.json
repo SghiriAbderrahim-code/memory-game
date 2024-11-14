@@ -1,0 +1,26 @@
+{
+"short_name": "Memory Game",
+"name": "Memory Game PWA",
+"display": "standalone",
+"background_color": "#ffffff",
+"theme_color": "#006eff",
+"orientation": "portrait",
+"scope": "/folder2/", 
+"start_url": "/folder2/index.html",
+"prefer_related_applications": true,
+"splash_pages" : null,
+
+"icons": [
+   {
+     "src": "/images/icon-192x192.png",
+     "sizes": "192x192",
+     "type": "image/png",
+     "purpose": "maskable"
+   },
+   {
+     "src": "/images/icon-512x512.png",
+     "sizes": "512x512",
+     "type": "image/png"
+   }
+]
+}
